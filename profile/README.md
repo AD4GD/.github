@@ -1,15 +1,10 @@
  # AD4GD
 
- | Pilot                         | Description                                                                   |
-|--------------------------------|-------------------------------------------------------------------------------|
-
-
-
  | Component              | Description                                                                   |
 |-------------------------|-------------------------------------------------------------------------------|
 | Pilot 1: Lakes          | A scenario analysis tool for small Berlin lakes                               |
 | Pilot 2: Biodiversity   | Determining whether animal habitats are being disconnected                    |
-| [Pilot3: Air Quality](pilot-3-air-quality)     | Using IoT data to improve air quality forecasting                             |
+| [Pilot3: Air Quality](AD4GD/pilot-3-air-quality)     | Using IoT data to improve air quality forecasting                             |
 | Air Quality             | IoT Sensor Ingestion Tools                                                    |
 | Connectors              | Dataspace Connectors                                                          |
 | STA+                    | Sensor Things API                                                             |
