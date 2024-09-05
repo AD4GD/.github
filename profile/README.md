@@ -1,4 +1,9 @@
- # AD4GD
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/AD4GD/.github/main/profile/logo.svg" alt="AD4GD Logo" width="500"/>
+</h1>
+
+AD4GD’s mission is to co-create and shape the European Green Deal Data Space as an open hub for FAIR data and standards-based services that support the key priorities of pollution, biodiversity and climate change.
+
 
  | Component              | Description                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -16,6 +21,6 @@
 | GDDS Terms              | Green Deal DataSpace Vacabularies and Ontologies                              |
 | GDDS Interfaces         |                                                                               |
 
-AD4GD’s mission is to co-create and shape the European Green Deal Data Space as an open hub for FAIR data and standards-based services that support the key priorities of pollution, biodiversity and climate change. The focus will be on interoperability concepts that bridge the semantic and technology gaps which currently prevent stakeholders and application domains from multi-disciplinary and multi-scale access to data, and which impede the exploitation of processing services, and processing platforms at different levels including Cloud, HPC and edge computing.
+The focus will be on interoperability concepts that bridge the semantic and technology gaps which currently prevent stakeholders and application domains from multi-disciplinary and multi-scale access to data, and which impede the exploitation of processing services, and processing platforms at different levels including Cloud, HPC and edge computing.
 This project will enable the combination and integration of data from remote sensing, established Virtual Research Environments and Research Infrastructures, Internet of Things (IoT), socio-economic data, INSPIRE and Citizen Science (CitSci) in an interoperable, scalable and reliable manner. This will facilitate integration by including semantic mappings to different standards and dominant models bridging domain- and data source-specific semantic concepts such as the Essential Variables framework, as well as applying machine learning and geospatial user feedback to ensure quality, reliability and trustworthiness of data and transforming spatial scales.
 
