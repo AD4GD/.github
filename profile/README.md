@@ -9,13 +9,14 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [Pilot 1: Lakes](https://github.com/AD4GD/pilot-1-water-quality-semantics)  | A scenario analysis tool for small Berlin lakes                |
 | [Pilot 2: Biodiversity](https://github.com/AD4GD/pilot-2)                   | Determining whether animal habitats are being disconnected     |
-| [Pilot3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)         | Using IoT data to improve air quality forecasting              |
+| [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)         | Using IoT data to improve air quality forecasting              |
 | [OpenEO Harvesting](https://github.com/AD4GD/Component-openEO-harvester)    |
 | Air Quality             | IoT Sensor Ingestion Tools                                                               |
 | Connectors              | Dataspace Connectors                                                                                               |
 | [STA+](https://github.com/AD4GD/Component-STAplus_Server)                    | Sensor Things API                  |
-| TAPIS                   | Tables from OGC APIs - A frontend tool                                        |
+| [TAPIS](https://github.com/AD4GD/Component-TAPIS)                   | Tables from OGC APIs - A frontend tool                                        |
 | Data Cubes              | OGC Coverages for Open Data Cube                                              |
+| [GDIM](https://github.com/AD4GD/GDIM) |  Green Data Information Model |
 | [Geonetwork Catalog](https://github.com/AD4GD/Component-GeoNetwork)      | Catalog solution for geospatial data.                                         |
 | [Data Trustworthiness](https://github.com/AD4GD/Component-Data-Trustworthiness-Framework)  | A framework for documenting the lineage, uncertainty and quality of datasets. |
 | GDDS Terms              | Green Deal DataSpace Vacabularies and Ontologies                              |
