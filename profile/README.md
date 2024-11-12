@@ -12,7 +12,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)        | Using IoT data to improve air quality forecasting              |
 | [OpenEO Harvesting](https://github.com/AD4GD/Component-openEO-harvester)    | Computing Remote Sensing Indices using OpenEO                  |
 | [Air Quality](https://github.com/AD4GD/component-ingestion)                 | IoT Sensor Ingestion Tools                                     |
-| Connectors                                                                  | Dataspace Connectors                                           |
+| [AD4GD Connector](https://github.com/AD4GD/Component-AD4GD-DataConnector)   | IDSA compliant Dataspace Connector desigend for the AD4GD Dataspace      |
 | [STA+](https://github.com/AD4GD/Component-STAplus_Server)                   | Sensor Things API                                              |
 | [TAPIS](https://github.com/AD4GD/Component-TAPIS)                           | Tables from OGC APIs - A frontend tool                         |
 | [Data Cubes](https://github.com/AD4GD/Component-OAPI_CoveragesForODC)       | OGC Coverages for Open Data Cube                               |
