@@ -17,6 +17,8 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | [TAPIS](https://github.com/AD4GD/Component-TAPIS)                           | Tables from OGC APIs - A frontend tool                         |
 | [Data Cubes](https://github.com/AD4GD/Component-OAPI_CoveragesForODC)       | OGC Coverages for Open Data Cube                               |
 | [GDIM](https://github.com/AD4GD/GDIM)                                       |  Green Data Information Model                                  |
+| [Data harmonisation pipelines](https://github.com/AD4GD/HarmonisationPipelines)|  Data harmonisation pipelines to generate GDIM compliant data    |
+| [STA generation service](https://github.com/AD4GD/STA-GenerationService)    |  SensorThings API generation service from GDIM compliant data  |
 | [Geonetwork Catalog](https://github.com/AD4GD/Component-GeoNetwork)         | Catalog solution for geospatial data.                          |
 | [Data Trustworthiness](https://github.com/AD4GD/Component-Data-Trustworthiness-Framework)  | A framework for documenting the lineage, uncertainty and quality of datasets. |
 | GDDS Terms                                                                  | Green Deal DataSpace Vacabularies and Ontologies               |
