@@ -9,7 +9,9 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [Pilot 1: Lakes](https://github.com/AD4GD/pilot-1-water-quality-semantics)  | A scenario analysis tool for small Berlin lakes                |
 | [Pilot 2: Biodiversity](https://github.com/AD4GD/pilot-2)                   | Determining whether animal habitats are being disconnected     |
-| [Pilot 2: Biodiversity EBVs](https://github.com/AD4GD/pilot-2-ebv)          | Pilot 2 Environmental BioDiversity Variables                   |
+| •[Pilot 2: Data4Land](https://github.com/AD4GD/pilot-2-preprocessing)       | Enriching land-use/land-cover data with OSM and protected areas|
+| •[Pilot 2: Graphab](https://github.com/AD4GD/pilot-2/tree/main/graphab)     | Containerised Graphab software for postprocessing              |
+| •[Pilot 2: Biodiversity EBVs](https://github.com/AD4GD/pilot-2-ebv)         | Pilot 2 Environmental BioDiversity Variables                   |
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)        | Using IoT data to improve air quality forecasting              |
 | [OpenEO Harvesting](https://github.com/AD4GD/Component-openEO-harvester)    | Computing Remote Sensing Indices using OpenEO                  |
 | [Air Quality](https://github.com/AD4GD/component-ingestion)                 | IoT Sensor Ingestion Tools                                     |
