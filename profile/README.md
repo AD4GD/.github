@@ -37,6 +37,10 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | •[ ENEON Graph](https://github.com/AD4GD)                                                   | European Network of Earth Observation Networks (ENEON) graph [Under development…]|
 
 
-The focus of AD4GD was on interoperability concepts that bridge the semantic and technology gaps which currently prevent stakeholders and application domains from multi-disciplinary and multi-scale access to data, and which impede the exploitation of processing services, and processing platforms at different levels including Cloud, HPC and edge computing.
-This project produced tools to enable the combination and integration of data from remote sensing, established Virtual Research Environments and Research Infrastructures, Internet of Things (IoT), socio-economic data, INSPIRE and Citizen Science (CitSci) in an interoperable, scalable and reliable manner. This facilitates integration by including semantic mappings to different standards and dominant models bridging domain- and data source-specific semantic concepts such as the Essential Variables framework, as well as applying machine learning and geospatial user feedback to ensure quality, reliability and trustworthiness of data and transforming spatial scales.
+The focus of AD4GD was on interoperability concepts that bridge the semantic and technology gaps which currently prevent stakeholders and application domains from multi-disciplinary and multi-scale access to data, and which impede the exploitation of processing services, and processing platforms at different levels including Cloud, HPC and edge computing. </br>
+This project produced tools to enable the combination and integration of data from remote sensing, established Virtual Research Environments and Research Infrastructures, Internet of Things (IoT), socio-economic data, INSPIRE and Citizen Science (CitSci) in an interoperable, scalable and reliable manner. This facilitates integration by including semantic mappings to different standards and dominant models bridging domain- and data source-specific semantic concepts such as the Essential Variables framework, as well as applying machine learning and geospatial user feedback to ensure quality, reliability and trustworthiness of data and transforming spatial scales. </br>
+
+## Acknowledgements
+
+The work has been co-funded by the European Union and the United Kingdom under the Horizon Europe [AD4GD Project](https://www.ogc.org/initiatives/ad4gd/).
 
