@@ -22,19 +22,19 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)                        | Using IoT data to improve air quality forecasting                      |
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-3-air-quality/tree/main/rainbow-data)       | Air quality vocabularies published in the OGC RAINBOW hosted instance  |
 | Cross-Domain Components                                                                     | Non-domain-specific components                                         |
-| [ GDIM](https://github.com/AD4GD/GDIM)                                                      | Green Data Information Model                                           |
-| [ Data harmonisation pipelines](https://github.com/AD4GD/HarmonisationPipelines)            | Data harmonisation pipelines to generate GDIM compliant data           |
-| [ STA generation service](https://github.com/AD4GD/STA-GenerationService)                   | SensorThings API generation service from GDIM compliant data           |
-| [ RAINBOW Lookup](https://github.com/AD4GD/rainbow-lookup)                                  | Lookup widget for vocabularies published in the OGC RAINBOW hosted instance|
-| [ CSVW Annotator](https://github.com/AD4GD/csvw-rainbow)                                    | Integrating OGC RAINBOW vocabularies and terms into other interfaces and systems|
-| [ Data Ingestion](https://github.com/AD4GD/component-ingestion)                             | IoT Sensor Ingestion Tools                                             |
-| [ Connector Best Practices](https://github.com/AD4GD/Component-AD4GD-DataConnector)         | IDSA compliant Dataspace Connector designed for the AD4GD Dataspace    |
-| [ Enhanced IoT CAMS Product](https://github.com/AD4GD)                                      | Prediction models for lake water availability [Under development...]   |
-| [ STAplus Best Practices](https://github.com/AD4GD/Component-STAplus_Server)                | Sensor Things API plus (SATplus) best practices                        |
-| [ TAPIS](https://github.com/AD4GD/Component-TAPIS)                                          | Tables from OGC APIs (TAPIS) - frontend tool                           |
-| [ Geonetwork Catalog Best Practices](https://github.com/AD4GD/Component-GeoNetwork)         | Catalog solution for geospatial data                                   |
-| [ Data Trustworthiness](https://github.com/AD4GD/Component-Data-Trustworthiness-Framework)  | A framework for documenting the lineage, uncertainty and quality of datasets|
-| [ ENEON Graph](https://github.com/AD4GD)                                                    | European Network of Earth Observation Networks (ENEON) graph [Under development…]|
+| •[ GDIM](https://github.com/AD4GD/GDIM)                                                     | Green Data Information Model                                           |
+| •[ Data harmonisation pipelines](https://github.com/AD4GD/HarmonisationPipelines)           | Data harmonisation pipelines to generate GDIM compliant data           |
+| •[ STA generation service](https://github.com/AD4GD/STA-GenerationService)                  | SensorThings API generation service from GDIM compliant data           |
+|• [ RAINBOW Lookup](https://github.com/AD4GD/rainbow-lookup)                                 | Lookup widget for vocabularies published in the OGC RAINBOW hosted instance|
+| •[ CSVW Annotator](https://github.com/AD4GD/csvw-rainbow)                                   | Integrating OGC RAINBOW vocabularies and terms into other interfaces and systems|
+| •[ Data Ingestion](https://github.com/AD4GD/component-ingestion)                            | IoT Sensor Ingestion Tools                                             |
+| •[ Connector Best Practices](https://github.com/AD4GD/Component-AD4GD-DataConnector)        | IDSA compliant Dataspace Connector designed for the AD4GD Dataspace    |
+| •[ Enhanced IoT CAMS Product](https://github.com/AD4GD)                                     | Prediction models for lake water availability [Under development...]   |
+| •[ STAplus Best Practices](https://github.com/AD4GD/Component-STAplus_Server)               | Sensor Things API plus (SATplus) best practices                        |
+| •[ TAPIS](https://github.com/AD4GD/Component-TAPIS)                                         | Tables from OGC APIs (TAPIS) - frontend tool                           |
+| •[ Geonetwork Catalog Best Practices](https://github.com/AD4GD/Component-GeoNetwork)        | Catalog solution for geospatial data                                   |
+| •[ Data Trustworthiness](https://github.com/AD4GD/Component-Data-Trustworthiness-Framework) | A framework for documenting the lineage, uncertainty and quality of datasets|
+| •[ ENEON Graph](https://github.com/AD4GD)                                                   | European Network of Earth Observation Networks (ENEON) graph [Under development…]|
 
 
 The focus of AD4GD was on interoperability concepts that bridge the semantic and technology gaps which currently prevent stakeholders and application domains from multi-disciplinary and multi-scale access to data, and which impede the exploitation of processing services, and processing platforms at different levels including Cloud, HPC and edge computing.
