@@ -23,9 +23,9 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)                        | Using IoT data to improve air quality forecasting                      |
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-3-air-quality/tree/main/rainbow-data)       | Air quality vocabularies published in the OGC RAINBOW hosted instance  |
 | Cross-Domain Components                                                                     | Non-domain-specific components                                         |
-| •[ GDIM](https://github.com/AD4GD/GDIM)                                                     | Green Data Information Model                                           |
-| •[ Data harmonisation pipelines](https://github.com/AD4GD/HarmonisationPipelines)           | Data harmonisation pipelines to generate GDIM compliant data           |
-| •[ STA generation service](https://github.com/AD4GD/STA-GenerationService)                  | SensorThings API generation service from GDIM compliant data           |
+| •[ GDIM](https://github.com/AD4GD/GDIM)                                                     | Green Deal Information Model                                           |
+| •[ Data Harmonisation Pipelines](https://github.com/AD4GD/HarmonisationPipelines)           | Data harmonisation pipelines to generate GDIM compliant data           |
+| •[ STA Generation Service](https://github.com/AD4GD/STA-GenerationService)                  | SensorThings API generation service from GDIM compliant data           |
 |• [ RAINBOW Lookup](https://github.com/AD4GD/rainbow-lookup)                                 | Lookup widget for vocabularies published in the OGC RAINBOW hosted instance|
 | •[ CSVW Annotator](https://github.com/AD4GD/csvw-rainbow)                                   | Integrating OGC RAINBOW vocabularies and terms into other interfaces and systems|
 | •[ Data Ingestion](https://github.com/AD4GD/component-ingestion)                            | IoT Sensor Ingestion Tools                                             |
