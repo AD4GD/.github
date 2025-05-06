@@ -30,7 +30,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | •[ CSVW Annotator](https://github.com/AD4GD/csvw-rainbow)                                   | Integrating OGC RAINBOW vocabularies and terms into other interfaces and systems|
 | •[ Data Ingestion](https://github.com/AD4GD/component-ingestion)                            | IoT Sensor Ingestion Tools                                             |
 | •[ Connector Best Practices](https://github.com/AD4GD/Component-AD4GD-DataConnector)        | IDSA compliant Dataspace Connector designed for the AD4GD Dataspace    |
-| •[ Enhanced IoT CAMS Product](https://github.com/AD4GD)                                     | Prediction models for lake water availability [Under development...]   |
+| •[ Enhanced IoT CAMS Product](https://github.com/AD4GD)                                     | [Under development...]                                                 |
 | •[ STAplus Best Practices](https://github.com/AD4GD/Component-STAplus_Server)               | Sensor Things API plus (SATplus) best practices                        |
 | •[ TAPIS](https://github.com/AD4GD/Component-TAPIS)                                         | Tables from OGC APIs (TAPIS) - frontend tool                           |
 | •[ Geonetwork Catalog Best Practices](https://github.com/AD4GD/Component-GeoNetwork)        | Catalog solution for geospatial data                                   |
