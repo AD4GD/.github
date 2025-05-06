@@ -11,7 +11,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-1-water-quality/tree/master/rainbow-data)   | Water quality vocabularies published in the OGC RAINBOW hosted instance|
 | •[ ML Models](https://github.com/AD4GD)                                                     | Prediction models for lake water availability [Under development...]   |
 | •[ Sentinel-2 Trophic State Estimation](https://github.com/AD4GD/Component-openEO-harvester)| Computing Remote Sensing Indices using OpenEO                          |
-| •[ SplashBoard](https://github.com/AD4GD)                                                   | Tool for displaying indicators of water quality of small urban lakes [Under development…]|
+| •[ SplashBoard](https://github.com/AD4GD/Pilots-Graphical-User-Interfaces)                  | Tool for displaying indicators of water quality of small urban lakes   |
 | [Pilot 2: Biodiversity](https://github.com/AD4GD/pilot-2-biodiversity)                      | Determining whether animal habitats are being disconnected             |
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-2-biodiversity/tree/main/rainbow-data)      | Essential Biodiversity Variables (EBVs) published in the OGC RAINBOW hosted instance|
 | •[ ML Models](https://github.com/AD4GD)                                                     | Prediction models for habitat connectivity [Under development…]        |
@@ -19,7 +19,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | •[ Graphab PostProc](https://github.com/AD4GD/pilot-2/tree/main/graphab)                    | Containerised Graphab software for postprocessing                      |
 | •[ GBIF2IUCN](https://github.com/AD4GD/pilot-2-gbif-iucn/tree/main)                         | Enrichment of species data with IUCN, GBIF and ancillary sources       |
 | •[ Data Cubes](https://github.com/AD4GD/Component-OAPI_CoveragesForODC)                     | OGC Coverages for Open Data Cube                                       |
-| •[ BioConn](https://github.com/AD4GD)                                                       | Tool for displaying habitat connectivity [Under development…]          |
+| •[ BioConn](https://github.com/AD4GD/Pilots-Graphical-User-Interfaces)                      | Tool for displaying habitat connectivity                               |
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)                        | Using IoT data to improve air quality forecasting                      |
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-3-air-quality/tree/main/rainbow-data)       | Air quality vocabularies published in the OGC RAINBOW hosted instance  |
 | Cross-Domain Components                                                                     | Non-domain-specific components                                         |
