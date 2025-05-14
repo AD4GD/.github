@@ -21,6 +21,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 | •[ Data Cubes](https://github.com/AD4GD/Component-OAPI_CoveragesForODC)                      | OGC Coverages for Open Data Cube                                       |
 | •[ BioConn](https://github.com/AD4GD/Pilots-Graphical-User-Interfaces)                       | Tool for displaying habitat connectivity                               |
 | [Pilot 3: Air Quality](https://github.com/AD4GD/pilot-3-air-quality)                         | Using IoT data to improve air quality forecasting                      |
+| •[ Data Processing](https://github.com/AD4GD/pilot-3-air-quality/tree/main/data_processing)  | Documentation and code for the dataset.                                |
 | •[ Cross Data Store](https://github.com/AD4GD/pilot-3-air-quality/tree/main/cross_data_store)| Metadata configuration for this dataset on the Cross Data Store        |
 | •[ RAINBOW Data](https://github.com/AD4GD/pilot-3-air-quality/tree/main/rainbow-data)        | Air quality vocabularies published in the OGC RAINBOW hosted instance  |
 | Cross-Domain Components                                                                      | Non-domain-specific components                                         |
