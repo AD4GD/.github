@@ -31,6 +31,7 @@ AD4GD’s mission is to co-create and shape the European Green Deal Data Space a
 |• [ RAINBOW Lookup](https://github.com/AD4GD/rainbow-lookup)                                  | Lookup widget for vocabularies published in the OGC RAINBOW hosted instance|
 | •[ CSVW Annotator](https://github.com/AD4GD/csvw-rainbow)                                    | Integrating OGC RAINBOW vocabularies and terms into other interfaces and systems|
 | •[ Data Ingestion](https://github.com/AD4GD/component-ingestion)                             | IoT Sensor Ingestion Tools                                             |
+| •[ EDC MVDS](https://github.com/AD4GD/psnc-edc-mvds)                                         | EDC Minimal Viable Dataspace with extensions/improvements in AD4GD     |
 | •[ Connector Best Practices](https://github.com/AD4GD/Component-AD4GD-DataConnector)         | IDSA compliant Dataspace Connector designed for the AD4GD Dataspace    |
 | •[ Enhanced IoT CAMS Product](https://github.com/AD4GD)                                      | [Under development...]                                                 |
 | •[ STAplus Best Practices](https://github.com/AD4GD/Component-STAplus_Server)                | Sensor Things API plus (SATplus) best practices                        |
